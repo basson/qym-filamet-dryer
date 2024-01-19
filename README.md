@@ -28,7 +28,7 @@ https://www.youtube.com/playlist?list=PLECrWHz_TG886tEzgreLgq92PoEziWuON
 
 ---
 
-Что имеем сейчас:
+**Что имеем сейчас:**
 
 В папках stl, cad, draft чертежи для раскроя панелей на CO2 лазере, модели для печатных деталей и step фалы если кто-то решит что, то поправить.
 
@@ -39,7 +39,11 @@ https://www.youtube.com/playlist?list=PLECrWHz_TG886tEzgreLgq92PoEziWuON
 * Делать интеграцию в Klipper.
 * Печать всех деталей для новой версии сборка и тесты сушилки.
 
-Подписывайся на мой youtube канал я там стараюсь вести регулярные стримы по всем своим проектам!!
+---
+
+
+
+**Подписывайся на мой youtube канал я там стараюсь вести регулярные стримы по всем своим проектам!!**
 
 YouTube Transalations - https://www.youtube.com/@basson_xvi/streams
 
