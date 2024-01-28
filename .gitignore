@@ -75,6 +75,7 @@ pcb/pcb-backups
 pcb/jlcpcb
 pcb/bom
 pcb/production
+*.lck
 
 
 # https://github.com/github/gitignore/blob/master/KiCad.gitignore

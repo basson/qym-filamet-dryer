@@ -448,8 +448,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "../../../../Documents/3D Prints/ghost 6 mod/qymdry/pcb/pcb.step",
+      "vrml": "../../../../Documents/3D Prints/ghost 6 mod/qymdry/pcb/pcb.wrl"
     },
     "page_layout_descr_file": ""
   },
