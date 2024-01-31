@@ -1,0 +1,6 @@
+{
+    "stm32cubemxpio.CleanUnnecessaryFiles": true,
+    "stm32cubemxpio.ProjectType": "C++",
+    "stm32cubemxpio.ProjectIOCFile": "QymDryer.ioc",
+    "stm32cubemxpio.STM32CubeMxExec": "stm32cubemx"
+}

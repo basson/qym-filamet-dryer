@@ -1,0 +1,5 @@
+
+config load /home/basson/Develop/Main/qym-filamet-dryer/code/QymDryer.ioc
+project generate /home/basson/Develop/Main/qym-filamet-dryer/code
+exit
+		
